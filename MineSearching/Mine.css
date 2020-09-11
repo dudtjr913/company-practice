@@ -1,0 +1,12 @@
+.td {
+  width: 70px;
+  height: 70px;
+  border: 3px solid black;
+  user-select: none;
+}
+
+.table {
+  margin-top: 20px;
+  border-collapse: collapse;
+  text-align: center;
+}
